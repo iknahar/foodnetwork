@@ -147,7 +147,7 @@ h2 {
 }
 
 .section-four {
-  background-image: url(images/recipies/section4.png);
+  background-image: url("images/recipies/section4.png");
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
