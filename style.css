@@ -39,7 +39,8 @@ a {
 }
 
 .hero-section,
-.about-me {
+.about-me,
+.our-app {
   display: flex;
   margin-bottom: 5%;
   margin-top: 7%;
@@ -53,11 +54,14 @@ a {
 .hero-section-left,
 .about-me-right,
 .hero-section-right,
-.about-me-left {
+.about-me-left,
+.our-app-left,
+.our-app-right {
   width: 50%;
 }
 
-.hero-section-right img {
+.hero-section-right img,
+.our-app-left img {
   width: 100%;
 }
 .hero-section-left {
@@ -199,4 +203,18 @@ footer p {
   color: #ffffff;
   font-size: 16px;
   margin-top: 1%;
+}
+
+.our-app {
+  background-color: #ececec;
+  margin: 0%;
+  padding: 8% 5%;
+}
+
+.our-app h2 {
+  padding-left: 0%;
+}
+
+.our-app-right {
+  padding: 0% 5%;
 }
