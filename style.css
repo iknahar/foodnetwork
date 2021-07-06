@@ -176,27 +176,3 @@ h2 {
 .button-fourthsec {
   padding-bottom: 8%;
 }
-
-footer {
-  height: 200px;
-  background-color: #0b0d17;
-  text-align: center;
-}
-
-footer span {
-  color: #fc8444;
-}
-
-footer h2 {
-  color: #5b5b5b;
-  font-size: 30px;
-  margin: 0 10px;
-  padding-top: 2%;
-  padding-bottom: 0%;
-}
-
-footer p {
-  color: #ffffff;
-  font-size: 16px;
-  margin-top: 1%;
-}
