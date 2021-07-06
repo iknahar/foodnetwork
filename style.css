@@ -181,6 +181,20 @@ h2 {
   padding-bottom: 8%;
 }
 
+.our-app {
+  background-color: #ececec;
+  margin: 0%;
+  padding: 8% 5%;
+}
+
+.our-app h2 {
+  padding-left: 0%;
+}
+
+.our-app-right {
+  padding: 0% 5%;
+}
+
 .footer-section {
   height: 200px;
   background-color: #0b0d17;
@@ -203,18 +217,4 @@ footer p {
   color: #ffffff;
   font-size: 16px;
   margin-top: 1%;
-}
-
-.our-app {
-  background-color: #ececec;
-  margin: 0%;
-  padding: 8% 5%;
-}
-
-.our-app h2 {
-  padding-left: 0%;
-}
-
-.our-app-right {
-  padding: 0% 5%;
 }
